@@ -1,5 +1,5 @@
 # 💰 Loan Default Risk Predictor
-
+# live url: https://loan-default-risk-predictor-jbfyaskzzrkchlyxr4sysf.streamlit.app/
 ## Overview
 
 This project predicts whether a loan applicant is likely to default on a loan using Machine Learning. The model analyzes applicant information such as income, employment history, loan amount, credit history, and loan characteristics to estimate default risk.
